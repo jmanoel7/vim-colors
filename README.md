@@ -4,13 +4,13 @@ vim colors - wombat, oceanblack, eclipse, symfony ...
 
 to install in ~/.vim/bundle with pathogen:
 
-    cd ~/.vim/bundle
-    git clone git://github.com/jmanoel7/vim-wombat
+    mkdir -p ~/.vim/bundle && cd ~/.vim/bundle
+    git clone git://github.com/jmanoel7/vim-colors
 
 
 to install in ~/.vim/bundle with vundle, put it into ~/.vimrc:
 
-    Bundle 'jmanoel7/vim-wombat'
+    Bundle 'jmanoel7/vim-colors'
 
 and execute in vim:
 
