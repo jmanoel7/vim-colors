@@ -61,7 +61,7 @@ hi Todo			ctermfg=245		cterm=none		guifg=#8f8f8f	gui=italic
 hi! link FoldColumn		Folded
 hi! link CursorColumn	CursorLine
 
-" vim:set ts=4 sw=4 noet:
+
 " MiniBufExpl Colors
 hi MBENormal               guifg=#808080 guibg=fg
 hi MBEChanged              guifg=#CD5907 guibg=fg
@@ -69,3 +69,6 @@ hi MBEVisibleNormal        guifg=#5DC2D6 guibg=fg
 hi MBEVisibleChanged       guifg=#F1266F guibg=fg
 hi MBEVisibleActiveNormal  guifg=#A6DB29 guibg=fg
 hi MBEVisibleActiveChanged guifg=#F1266F guibg=fg
+
+
+" vim:set ts=4 sw=4 noet:
