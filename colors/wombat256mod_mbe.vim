@@ -104,3 +104,4 @@ hi MBEVisibleActiveChanged guifg=#F1266F guibg=fg
 
 
 " vim:set ts=4 sw=4 noet:
+
